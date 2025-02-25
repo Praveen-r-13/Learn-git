@@ -1,2 +1,2 @@
 # Learn-git
-Learning GIT
+Learning GIT for the first time.
